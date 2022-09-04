@@ -1,6 +1,6 @@
 ## Hello there, I am Agniv Chatterjee 👋
 - 🌱 I am interested in Machine Learning, or Computer Vision more specifically.
-- 👯 I have worked on multiple projects, some of which I'm still a part of.
+- 👯 I have worked on multiple projects, some of which I'm still a part of, in the fields of Pose Classification and Contact Estimation, Tiny Object Detection and Classification, Audio Classification and Biomedical Image Segmentation
 - ⚡ Fun fact: I love reading, watching movies, and listening to music ocassionally - the trifecta :D
 
 ## Connect with me
