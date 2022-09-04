@@ -1,0 +1,24 @@
+## Hello there, I am Agniv Chatterjee 👋
+- 🌱 I am interested in Machine Learning, or Computer Vision more specifically.
+- 👯 I have worked on multiple projects, some of which I'm still a part of.
+- ⚡ Fun fact: I love reading, watching movies, and listening to music ocassionally - the trifecta :D
+
+## Connect with me
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+<br />
+<br />
+
+## Languages and Tools:
+
+<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="MATLAB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />
+<img align="left" alt="Tensorflow" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
+<img align="left" alt="Keras" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />
+<img align="left" alt="Pytorch" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" />
+<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
+<img align="left" alt="HTML" width="30px" src="https://en.wikipedia.org/wiki/HTML#/media/File:HTML5_logo_and_wordmark.svg" />
+<img align="left" alt="Dash/Plotly" width="30px" src="https://en.wikipedia.org/wiki/Plotly#/media/File:Plotly-logo.png" />
+<br></br>
+
+[linkedin]: https://www.linkedin.com/in/JohnDoe13
